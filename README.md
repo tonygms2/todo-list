@@ -10,8 +10,11 @@ Start the development server using npm start.
 🛠️ Built With
 React - A JavaScript library for building user interfaces.
 Tailwind CSS - A utility-first CSS framework for rapid UI development.
+
 🎨 Screenshots
+
 ![Todo List GIF](https://github.com/tonygms2/todo-list/blob/master/Todo-List%20Gif.gif)
+
 
 
 🤝 Contributing
