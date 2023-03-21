@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/http//tonygms2.github.io/todo-list/static/css/main.be242ea2.css",
+    "main.js": "/http//tonygms2.github.io/todo-list/static/js/main.10f75212.js",
+    "index.html": "/http//tonygms2.github.io/todo-list/index.html",
+    "main.be242ea2.css.map": "/http//tonygms2.github.io/todo-list/static/css/main.be242ea2.css.map",
+    "main.10f75212.js.map": "/http//tonygms2.github.io/todo-list/static/js/main.10f75212.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be242ea2.css",
+    "static/js/main.10f75212.js"
+  ]
+}
